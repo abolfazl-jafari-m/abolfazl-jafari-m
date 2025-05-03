@@ -13,7 +13,6 @@ I'm a passionate web developer with a love for both the design and engineering s
 
 ---
 
-<hr>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Semicolon%20Matters.&author=Abolfazl%20Jafari%20M" />
